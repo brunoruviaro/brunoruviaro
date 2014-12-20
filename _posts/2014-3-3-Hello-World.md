@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I am up and running!
+title: This is a blog post
 ---
 
 OKOKOKOK
